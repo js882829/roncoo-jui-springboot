@@ -18,6 +18,7 @@ public class RoncooJuiSpringbootWebApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(RoncooJuiSpringbootWebApplication.class, args);
+		System.out.println("请直接访问：http://localhost:8080/roncoo-jui-springboot/index");
 	}
 
 }

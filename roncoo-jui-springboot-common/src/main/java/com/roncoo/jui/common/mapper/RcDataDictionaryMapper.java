@@ -1,7 +1,7 @@
 package com.roncoo.jui.common.mapper;
 
-import com.roncoo.jui.common.bean.entity.RcDataDictionary;
-import com.roncoo.jui.common.bean.entity.RcDataDictionaryExample;
+import com.roncoo.jui.common.entity.RcDataDictionary;
+import com.roncoo.jui.common.entity.RcDataDictionaryExample;
 import java.util.List;
 import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Param;

@@ -1,7 +1,7 @@
 package com.roncoo.jui.common.mapper;
 
-import com.roncoo.jui.common.bean.entity.RcReport;
-import com.roncoo.jui.common.bean.entity.RcReportExample;
+import com.roncoo.jui.common.entity.RcReport;
+import com.roncoo.jui.common.entity.RcReportExample;
 import java.util.List;
 import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Param;
